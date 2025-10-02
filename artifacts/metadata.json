@@ -1,0 +1,10 @@
+{
+  "model_type": "LinearRegression",
+  "equation": "y = 66.666667 * x + 0.000000",
+  "coef": 66.66666666666667,
+  "intercept": 1.8189894035458565e-12,
+  "feature": "Irrigation Hours",
+  "target": "Irrigated Area per Angle",
+  "random_state": 42,
+  "test_size": 0.2
+}
