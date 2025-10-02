@@ -52,8 +52,18 @@ irrigation-area-linreg/
 
 ### 1. Clone the repository
 
+You can clone the repository either via **HTTPS** or **SSH**:
+
+**HTTPS (recommended for beginners):**
 ```bash
-git clone https://github.com/matheusvazdata/irrigation-area-linreg
+git clone https://github.com/matheusvazdata/irrigation-area-linreg.git
+cd irrigation-area-linreg
+```
+
+**SSH (recommended if you already configured your SSH keys with GitHub):**
+
+```bash
+git clone git@github.com:matheusvazdata/irrigation-area-linreg.git
 cd irrigation-area-linreg
 ```
 
